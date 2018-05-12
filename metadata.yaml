@@ -1,0 +1,27 @@
+_repo: Out-of-the-North_29210
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29210-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sutherland, Howard V. (Howard Vigne)
+    alias: Sutherland, H. V. (Howard Vigne)
+    birthdate: 1868
+    gutenberg_agent_id: '33763'
+    url: http://www.gutenberg.org/2009/agents/33763
+description: ''
+gutenberg_issued: '2009-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29210'
+  lccn: '13019146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Out of the North
+url: http://www.gutenberg.org/ebooks/29210
